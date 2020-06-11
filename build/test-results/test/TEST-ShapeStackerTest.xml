@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ShapeStackerTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-06-07T00:18:33" hostname="DESKTOP-APP1087" time="0.05">
+  <properties/>
+  <testcase name="shouldFindAreaOfTriangle()" classname="ShapeStackerTest" time="0.05"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
